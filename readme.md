@@ -1,0 +1,2 @@
+# Study-nodes
+This is an exclusive repository for my note studies about different technologies, where I will upload only what I think is important or more relevant about the specific technology that I am studying.
